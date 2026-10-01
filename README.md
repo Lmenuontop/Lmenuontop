@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me. Don't
-- 😄 Pronouns: nor/mal
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: I'm a human being
 
 <!---
